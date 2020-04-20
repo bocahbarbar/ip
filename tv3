@@ -15,8 +15,11 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC+
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
 https://cdnjt21.useetv.com:443/tvod/mp4/antv_3/1586658600/1586669400/chunklist.m3u8?stime=20200413210000&etime=20200413220000&encoded=0a2cbf0d77e992a5e2cfa
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV 2
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
