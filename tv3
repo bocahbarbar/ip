@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1587410697~acl=/hls-p/ingest_665_*/*~hmac=99b3c81590994bf82531c278b8cd1fd78b89d948b76c61494242713d6c661534/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",TVRI 
 https://etslive-2-vidio-com.akamaized.net/exp=1587410632~acl=/hls-p/ingest_6441_*/*~hmac=84fb217732ec4479f968d4ad361309a1a4b61462df37b66c09391971107bc92d/hls-p/ingest_6441_480p/index.m3u8
