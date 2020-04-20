@@ -21,9 +21,6 @@ https://cdnjt21.useetv.com:443/tvod/mp4/antv_3/1586658600/1586669400/chunklist.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV 2
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:-1, (Vidio) ANTV
-https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
@@ -44,12 +41,6 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png/" group-title="INDONESIA",GTV+ 
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
-#EXTINF:-1,LOCAL - [190] Global TV
-rtp://@239.1.2.13:8052
-
-#EXTINF:-1, (Vidio) Global TV
-https://kmklive-lh.akamaihd.net/i/globaltv_live@577566/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Local Channel",GTV (Server 4)
 http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -449,42 +440,3 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIVE MOVIES",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-
-#EXTINF:-1,KIDS - [023] Dunia Anak
-rtp://@239.1.2.7:8016
-
-#EXTINF:-1,KIDS - [311] BabyFirst (Trial)
-rtp://@239.1.1.157:8916
-
-#EXTINF:-1,KIDS - [381] Disney Channel
-rtp://@239.1.2.45:8244
-
-#EXTINF:-1,KIDS - [000] Disney Channel (HD)
-rtp://@239.1.1.201:9180
-
-#EXTINF:-1,KIDS - [382] Disney Junior
-rtp://@239.1.2.47:8256
-
-#EXTINF:-1,KIDS - [383] DaVinci Learning
-rtp://@239.1.2.177:9250
-
-#EXTINF:-1,KIDS - [384] Nickelodeon
-rtp://@239.1.2.41:8220
-
-#EXTINF:-1,KIDS - [385] Nick Jr.
-rtp://@239.1.2.159:8928
-
-#EXTINF:-1,KIDS - [386] Cartoon Network
-rtp://@239.1.2.123:8712
-
-#EXTINF:-1,KIDS - [387] Toonami
-rtp://@239.1.2.143:8832
-
-#EXTINF:-1,KIDS - [388] Boomerang
-rtp://@239.1.2.73:8412
-
-#EXTINF:-1,KIDS - [389] Duck TV
-rtp://@239.1.2.63:8352
-
-#EXTINF:-1,KIDS - [390] DreamWorks (Trial)
-rtp://@239.1.2.139:8808
