@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/640px-RCTI_MNC-Group.png" group-title="INDONESIA",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1587410697~acl=/hls-p/ingest_665_*/*~hmac=99b3c81590994bf82531c278b8cd1fd78b89d948b76c61494242713d6c661534/hls-p/ingest_665_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",TVRI 
-https://etslive-2-vidio-com.akamaized.net/exp=1587410632~acl=/hls-p/ingest_6441_*/*~hmac=84fb217732ec4479f968d4ad361309a1a4b61462df37b66c09391971107bc92d/hls-p/ingest_6441_480p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/640px-RCTI_MNC-Group.png" group-title="INDONESIA",RCTI HD
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
@@ -18,6 +15,9 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",MNC 
+https://etslive-2-vidio-com.akamaized.net/exp=1587410978~acl=/hls-p/ingest_870_*/*~hmac=f556af11539b91380e6001586df31da653f088b565b8674f4edb746458cc2871/hls-p/ingest_870_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png/" group-title="INDONESIA",MNC 2
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC+
@@ -40,9 +40,11 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV 2
+https://etslive-2-vidio-com.akamaized.net/exp=1587410641~acl=/hls-p/ingest_875_*/*~hmac=c0a429d5f75147eb8056ed4ad993ced1188df942ae5d4ccb57a911031bc1fa28/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="INDONESIA",GLOBALTV HD
-http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+https://etslive-2-vidio-com.akamaized.net/exp=1587411028~acl=/hls-p/ingest_778_*/*~hmac=7172b87d21215c67c0300fee715f3a0909730f098bba8f43022e323bd00682c2/hls-p/ingest_778_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="INDONESIA",GTV 2
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
@@ -55,6 +57,9 @@ https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southea
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS 7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS 7 3 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1587410754~acl=/hls-p/ingest_734_*/*~hmac=4934aaaa52bd907397e89ddf79c613cfc6e06e8f4349eb7e7c79f32bca23b686/hls-p/ingest_734_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
