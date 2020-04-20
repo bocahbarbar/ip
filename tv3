@@ -512,204 +512,204 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",HBO HITS
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",HBO FAMILY
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",HBO SIGNATURE
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",My Cinema Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",My Cinema Channel
 http://210.210.155.69/s/s31/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",FOX FAMILY
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",FOX FAMILY
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",AXN
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",AXN
 http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",SONY ONE
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",SONY ONE
 http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",STAR MOVIES
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",CYNE STAR PREMIERE 1
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",CYNE STAR PREMIERE 1
 http://cableserver1.cableguy.pro:82/live?cId=383&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT HOROR
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT HOROR
 http://cableserver1.cableguy.pro:82/live?cId=473&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT PREMIUM
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT PREMIUM
 http://cableserver1.cableguy.pro:82/live?cId=474&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT KINO
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT KINO
 http://cableserver1.cableguy.pro:82/live?cId=471&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT 3
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT 3
 http://cableserver1.cableguy.pro:82/live?cId=477&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT 4
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT 4
 http://cableserver1.cableguy.pro:82/live?cId=478&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MACRO SELECT 9
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MACRO SELECT 9
 http://cableserver1.cableguy.pro:82/live?cId=483&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MOMEDY NOW
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MOMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",THE WORK
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",THE WORK
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",CINEMA THAI
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",CINEMA THAI
 http://203.154.243.89:2037
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",ROTANA CINEMA
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",ROTANA CINEMA
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",STAR MOVIES
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",STAR WORLD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",STAR WORLD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",RAI MOVIES
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",RAI MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",BLACK MOVIES
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",BLACK MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",TV MONDE
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",TV MONDE
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8?TV5-Monde-Asia
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",SONY MAX 1
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",SONY MAX 1
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",SONY PICT
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",SONY PICT
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",B4U TV
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",B4U TV
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MOVIE NOW HD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MOVIE NOW HD
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",QYU HD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",QYU HD
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MNX HD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",FILM BOX
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",FILM BOX
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",FILM BOX ARTHOUSE
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",FILM BOX ARTHOUSE
 https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MGM SCIFI
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MGM SCIFI
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MOVIES CHANNEL",MNX
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="MOVIES CHANNEL",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Sony
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Sony
 http://69.64.33.127:25461/redhat/colombia12/6
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Warner Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Warner Channel
 http://69.64.33.127:25461/redhat/colombia12/7
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Universal Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Universal Channel
 http://69.64.33.127:25461/redhat/colombia12/8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",FX
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",FX
 http://69.64.33.127:25461/redhat/colombia12/9
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",A&E
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",A&E
 http://69.64.33.127:25461/redhat/colombia12/10
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",AXN
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",AXN
 http://69.64.33.127:25461/redhat/colombia12/11
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",TruTV
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",TruTV
 http://69.64.33.127:25461/redhat/colombia12/12
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Comedy Central
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Comedy Central
 http://69.64.33.127:25461/redhat/colombia12/13
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",E! entertainment
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",E! entertainment
 http://69.64.33.127:25461/redhat/colombia12/14
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Syfy
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Syfy
 http://69.64.33.127:25461/redhat/colombia12/15
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery ID
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery ID
 http://69.64.33.127:25461/redhat/colombia12/16
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Kids
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Kids
 http://69.64.33.127:25461/redhat/colombia12/17
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Disney Junior
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Disney Junior
 http://69.64.33.127:25461/redhat/colombia12/18
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Disney Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Disney Channel
 http://69.64.33.127:25461/redhat/colombia12/19
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Nick HD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Nick HD
 http://69.64.33.127:25461/redhat/colombia12/20
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Cartoon Network
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Cartoon Network
 http://69.64.33.127:25461/redhat/colombia12/21
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Disney XD
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Disney XD
 http://69.64.33.127:25461/redhat/colombia12/22
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Boomerang
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Boomerang
 http://69.64.33.127:25461/redhat/colombia12/23
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",History
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",History
 http://69.64.33.127:25461/redhat/colombia12/24
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery World
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery World
 http://69.64.33.127:25461/redhat/colombia12/25
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Channel
 http://69.64.33.127:25461/redhat/colombia12/26
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Home and Health
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Home and Health
 http://69.64.33.127:25461/redhat/colombia12/27
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",NatGeo Channel
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",NatGeo Channel
 http://69.64.33.127:25461/redhat/colombia12/28
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Lifetime
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Lifetime
 http://69.64.33.127:25461/redhat/colombia12/29
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Science
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Science
 http://69.64.33.127:25461/redhat/colombia12/30
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",TLC
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",TLC
 http://69.64.33.127:25461/redhat/colombia12/31
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox Premium Series
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox Premium Series
 http://69.64.33.127:25461/redhat/colombia12/32
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox Premium Movies
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox Premium Movies
 http://69.64.33.127:25461/redhat/colombia12/33
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Cinecanal
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Cinecanal
 http://69.64.33.127:25461/redhat/colombia12/34
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",TNT
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",TNT
 http://69.64.33.127:25461/redhat/colombia12/35
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Golden Plus
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Golden Plus
 http://69.64.33.127:25461/redhat/colombia12/36
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",AMC
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",AMC
 http://69.64.33.127:25461/redhat/colombia12/37
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Morbido
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Morbido
 http://69.64.33.127:25461/redhat/colombia12/38
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Studio Universal
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Studio Universal
 http://69.64.33.127:25461/redhat/colombia12/39
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",MTV
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",MTV
 http://69.64.33.127:25461/redhat/colombia12/40
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",FX Movies
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",FX Movies
 http://69.64.33.127:25461/redhat/colombia12/41
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Theater
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Theater
 http://69.64.33.127:25461/redhat/colombia12/42
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Animal Planet
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Animal Planet
 http://69.64.33.127:25461/redhat/colombia12/43
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Discovery Turbo
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Discovery Turbo
 http://69.64.33.127:25461/redhat/colombia12/44
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Space
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Space
 http://69.64.33.127:25461/redhat/colombia12/45
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Food Network
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Food Network
 http://69.64.33.127:25461/redhat/colombia12/46
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox Premium Action
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox Premium Action
 http://69.64.33.127:25461/redhat/colombia12/47
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox Sports 2
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox Sports 2
 http://69.64.33.127:25461/redhat/colombia12/48
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Espn MX
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Espn MX
 http://69.64.33.127:25461/redhat/colombia12/49
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox
 http://69.64.33.127:25461/redhat/colombia12/50
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Natgeo Wild
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Natgeo Wild
 http://69.64.33.127:25461/redhat/colombia12/51
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Azteca 7
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Azteca 7
 http://69.64.33.127:25461/redhat/colombia12/52
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Bitme
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Bitme
 http://69.64.33.127:25461/redhat/colombia12/53
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Canal De Las Estrellas
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Canal De Las Estrellas
 http://69.64.33.127:25461/redhat/colombia12/54
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Cinemax
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Cinemax
 http://69.64.33.127:25461/redhat/colombia12/55
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Max Prime
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Max Prime
 http://69.64.33.127:25461/redhat/colombia12/1463
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",HBO
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",HBO
 http://69.64.33.127:25461/redhat/colombia12/1472
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",HBO 2
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",HBO 2
 http://69.64.33.127:25461/redhat/colombia12/1473
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",HBO Signature
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",HBO Signature
 http://69.64.33.127:25461/redhat/colombia12/1474
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",HBO Family
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",HBO Family
 http://69.64.33.127:25461/redhat/colombia12/1475
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",HBO Plus
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",HBO Plus
 http://69.64.33.127:25461/redhat/colombia12/1476
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",History 2
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",History 2
 http://69.64.33.127:25461/redhat/colombia12/1512
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Golden Premier
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Golden Premier
 http://69.64.33.127:25461/redhat/colombia12/8053
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Fox Premium Comedy
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Fox Premium Comedy
 http://69.64.33.127:25461/redhat/colombia12/20746
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="CINEMA-KID FILM HD",Imagen TV
+#EXTINF:-1  tvg-logo="http://127.0.0.1/" group-title="CINEMA-KID FILM HD",Imagen TV
 http://69.64.33.127:25461/redhat/colombia12/33445
 
 
